@@ -1,0 +1,172 @@
+{
+  "categories": [
+	{
+	  "key": "sportswear",
+	  "text": "Sportswear",
+	  "subcategories": [
+		{
+		  "text": "Nike"
+		},
+		{
+		  "text": "Under Armour"
+		},
+		{
+		  "text": "Adidas"
+		},
+		{
+		  "text": "Puma"
+		},
+		{
+		  "text": "Asics"
+		}
+	  ]
+	},
+	{
+	  "key": "mens",
+	  "text": "Mens",
+	  "subcategories": [
+		{
+		  "text": "Fendi"
+		},
+		{
+		  "text": "Guess"
+		},
+		{
+		  "text": "Valentino"
+		},
+		{
+		  "text": "Dior"
+		},
+		{
+		  "text": "Versace"
+		},
+		{
+		  "text": "Armani"
+		},
+		{
+		  "text": "Prada"
+		},
+		{
+		  "text": "Dolce and Gabbana"
+		},
+		{
+		  "text": "Chanel"
+		},
+		{
+		  "text": "Gucci"
+		}
+	  ]
+	},
+	{
+	  "key": "womens",
+	  "text": "Womens",
+	  "subcategories": [
+		{
+		  "text": "Fendi"
+		},
+		{
+		  "text": "Guess"
+		},
+		{
+		  "text": "Valentino"
+		},
+		{
+		  "text": "Dior"
+		},
+		{
+		  "text": "Versace"
+		}
+	  ]
+	},
+	{
+	  "key": "kids",
+	  "text": "Kids"
+	},
+	{
+	  "key": "fashion",
+	  "text": "Fashion"
+	},
+	{
+	  "key": "households",
+	  "text": "Households"
+	},
+	{
+	  "key": "interiors",
+	  "text": "Interiors"
+	},
+	{
+	  "key": "clothing",
+	  "text": "Clothing"
+	},
+	{
+	  "key": "bags",
+	  "text": "Bags"
+	},
+	{
+	  "key": "shoes",
+	  "text": "Shoes"
+	}
+  ],
+  "brands": [
+	{
+	  "text": "Acne",
+	  "count": 50
+	},
+	{
+	  "text": "Grüne Erde",
+	  "count": 56
+	},
+	{
+	  "text": "Albiro",
+	  "count": 27
+	},
+	{
+	  "text": "Ronhill",
+	  "count": 32
+	},
+	{
+	  "text": "Oddmolly",
+	  "count": 5
+	},
+	{
+	  "text": "Boudestijn",
+	  "count": 9
+	},
+	{
+	  "text": "Rösch creative culture",
+	  "count": 4
+	}
+  ],
+  "products": [
+	{
+	  "id": 100,
+	  "image": "images/home/product1.jpg",
+	  "title": "Product 1"
+	},
+	{
+	  "id": 200,
+	  "image": "images/home/product2.jpg",
+	  "title": "Product 2"
+	},
+	{
+	  "id": 300,
+	  "image": "images/home/product3.jpg",
+	  "title": "Product 3"
+	},
+	{
+	  "id": 400,
+	  "image": "images/home/product4.jpg",
+	  "title": "Product 4"
+	},
+	{
+	  "id": 500,
+	  "image": "images/home/product5.jpg",
+	  "title": "Product 5"
+	},
+	{
+	  "id": 600,
+	  "image": "images/home/product6.jpg",
+	  "title": "Product 6"
+	}
+  ]
+}
