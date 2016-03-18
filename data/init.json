@@ -1,172 +1,209 @@
 {
   "categories": [
-	{
-	  "key": "sportswear",
-	  "text": "Sportswear",
-	  "subcategories": [
-		{
-		  "text": "Nike"
-		},
-		{
-		  "text": "Under Armour"
-		},
-		{
-		  "text": "Adidas"
-		},
-		{
-		  "text": "Puma"
-		},
-		{
-		  "text": "Asics"
-		}
-	  ]
-	},
-	{
-	  "key": "mens",
-	  "text": "Mens",
-	  "subcategories": [
-		{
-		  "text": "Fendi"
-		},
-		{
-		  "text": "Guess"
-		},
-		{
-		  "text": "Valentino"
-		},
-		{
-		  "text": "Dior"
-		},
-		{
-		  "text": "Versace"
-		},
-		{
-		  "text": "Armani"
-		},
-		{
-		  "text": "Prada"
-		},
-		{
-		  "text": "Dolce and Gabbana"
-		},
-		{
-		  "text": "Chanel"
-		},
-		{
-		  "text": "Gucci"
-		}
-	  ]
-	},
-	{
-	  "key": "womens",
-	  "text": "Womens",
-	  "subcategories": [
-		{
-		  "text": "Fendi"
-		},
-		{
-		  "text": "Guess"
-		},
-		{
-		  "text": "Valentino"
-		},
-		{
-		  "text": "Dior"
-		},
-		{
-		  "text": "Versace"
-		}
-	  ]
-	},
-	{
-	  "key": "kids",
-	  "text": "Kids"
-	},
-	{
-	  "key": "fashion",
-	  "text": "Fashion"
-	},
-	{
-	  "key": "households",
-	  "text": "Households"
-	},
-	{
-	  "key": "interiors",
-	  "text": "Interiors"
-	},
-	{
-	  "key": "clothing",
-	  "text": "Clothing"
-	},
-	{
-	  "key": "bags",
-	  "text": "Bags"
-	},
-	{
-	  "key": "shoes",
-	  "text": "Shoes"
-	}
+    {
+      "id": 1,
+      "text": "Sportswear",
+      "subcategories": [
+        {
+          "text": "Nike"
+        },
+        {
+          "text": "Under Armour"
+        },
+        {
+          "text": "Adidas"
+        },
+        {
+          "text": "Puma"
+        },
+        {
+          "text": "Asics"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Mens",
+      "subcategories": [
+        {
+          "text": "Fendi"
+        },
+        {
+          "text": "Guess"
+        },
+        {
+          "text": "Valentino"
+        },
+        {
+          "text": "Dior"
+        },
+        {
+          "text": "Versace"
+        },
+        {
+          "text": "Armani"
+        },
+        {
+          "text": "Prada"
+        },
+        {
+          "text": "Dolce and Gabbana"
+        },
+        {
+          "text": "Chanel"
+        },
+        {
+          "text": "Gucci"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Womens",
+      "subcategories": [
+        {
+          "text": "Fendi"
+        },
+        {
+          "text": "Guess"
+        },
+        {
+          "text": "Valentino"
+        },
+        {
+          "text": "Dior"
+        },
+        {
+          "text": "Versace"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kids"
+    },
+    {
+      "id": 5,
+      "text": "Fashion"
+    },
+    {
+      "id": 6,
+      "text": "Households"
+    },
+    {
+      "id": 7,
+      "text": "Interiors"
+    },
+    {
+      "id": 8,
+      "text": "Clothing"
+    },
+    {
+      "id": 9,
+      "text": "Bags"
+    },
+    {
+      "id": 10,
+      "text": "Shoes"
+    }
   ],
   "brands": [
-	{
-	  "text": "Acne",
-	  "count": 50
-	},
-	{
-	  "text": "Grüne Erde",
-	  "count": 56
-	},
-	{
-	  "text": "Albiro",
-	  "count": 27
-	},
-	{
-	  "text": "Ronhill",
-	  "count": 32
-	},
-	{
-	  "text": "Oddmolly",
-	  "count": 5
-	},
-	{
-	  "text": "Boudestijn",
-	  "count": 9
-	},
-	{
-	  "text": "Rösch creative culture",
-	  "count": 4
-	}
+    {
+      "text": "Acne",
+      "id": 1,
+      "count": 50
+    },
+    {
+      "text": "Grüne Erde",
+      "id": 2,
+      "count": 56
+    },
+    {
+      "text": "Albiro",
+      "id": 3,
+      "count": 27
+    },
+    {
+      "text": "Ronhill",
+      "id": 4,
+      "count": 32
+    },
+    {
+      "text": "Oddmolly",
+      "id": 5,
+      "count": 5
+    },
+    {
+      "text": "Boudestijn",
+      "id": 6,
+      "count": 9
+    },
+    {
+      "text": "Rösch creative culture",
+      "id": 7,
+      "count": 4
+    }
   ],
   "products": [
-	{
-	  "id": 100,
-	  "image": "images/home/product1.jpg",
-	  "title": "Product 1"
-	},
-	{
-	  "id": 200,
-	  "image": "images/home/product2.jpg",
-	  "title": "Product 2"
-	},
-	{
-	  "id": 300,
-	  "image": "images/home/product3.jpg",
-	  "title": "Product 3"
-	},
-	{
-	  "id": 400,
-	  "image": "images/home/product4.jpg",
-	  "title": "Product 4"
-	},
-	{
-	  "id": 500,
-	  "image": "images/home/product5.jpg",
-	  "title": "Product 5"
-	},
-	{
-	  "id": 600,
-	  "image": "images/home/product6.jpg",
-	  "title": "Product 6"
-	}
+    {
+      "id": 100,
+      "categories": [
+        1,
+        3
+      ],
+      "brand": 1,
+      "image": "images/home/product1.jpg",
+      "title": "Product 1",
+      "price": 500
+    },
+    {
+      "id": 200,
+      "categories": [1],
+      "brand": 1,
+      "image": "images/home/product2.jpg",
+      "title": "Product 2",
+      "price": 300
+    },
+    {
+      "id": 300,
+      "categories": [
+        3
+      ],
+      "brand": 2,
+      "image": "images/home/product3.jpg",
+      "title": "Product 3",
+      "price": 200
+    },
+    {
+      "id": 400,
+      "categories": [
+        2,
+        4
+      ],
+      "brand": 3,
+      "image": "images/home/product4.jpg",
+      "title": "Product 4",
+      "price": 350
+    },
+    {
+      "id": 500,
+      "categories": [
+        5
+      ],
+      "brand": 4,
+      "image": "images/home/product5.jpg",
+      "title": "Product 5",
+      "price": 550
+    },
+    {
+      "id": 600,
+      "categories": [
+        6
+      ],
+      "brand": 4,
+      "image": "images/home/product6.jpg",
+      "title": "Product 6",
+      "price": 750
+    }
   ]
 }
